@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="left">👨‍💻 Paulo André</h1>
 
-<!--
-**pauloandree7/Pauloandree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <strong>Desenvolvedor Front-end</strong> · Estudante de Análise e Desenvolvimento de Sistemas
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento front-end.<br/>
+  Atualmente estudo e desenvolvo projetos utilizando <strong>HTML</strong> e <strong>Java</strong>, além de fortalecer a base em lógica de programação e banco de dados.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Utilizo este GitHub para organizar meus estudos, publicar projetos acadêmicos e pessoais, e aplicar boas práticas de desenvolvimento de software.
+</p>
+
+ 🌐 Conecte-se comigo<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-andré-5917582ab/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+</p>
+
+---
+
+<h3>💻 Linguagens e Tecnologias</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="34px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="34px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="34px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="34px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="34px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="34px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34px"/>
+</p>
+
+---
+
+<h3>📊 Estatísticas do GitHub</h3>
+
+<p align="left">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=pauloandree7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloandree7&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+  />
+</p>
