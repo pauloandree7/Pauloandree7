@@ -13,12 +13,10 @@
   Utilizo este GitHub para organizar meus estudos, publicar projetos acadêmicos e pessoais, e aplicar boas práticas de desenvolvimento de software.
 </p>
 
- 🌐 Conecte-se comigo<p align="left">
-  <a href="https://www.linkedin.com/in/paulo-andré-5917582ab/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
+  <p align="left">
+  🌐 <strong>Conecte-se comigo:</strong><br><br>
+  <a href="https://www.linkedin.com/in/paulo-andr%C3%A9-5197582ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -37,9 +35,9 @@
 </p>
 
 ---
-
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas de Código](https://github-readme-stats.vercel.app/api?username=pauloandree7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloandree7&theme=tokyonight&layout=compact&custom_title=Tecnologias)
+<p align="left">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauloandree7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloandree7&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+</p>
