@@ -13,7 +13,7 @@
   Utilizo este GitHub para organizar meus estudos, publicar projetos acadêmicos e pessoais, e aplicar boas práticas de desenvolvimento de software.
 </p>
 
-  <p align="left">
+<p align="left">
   🌐 <strong>Conecte-se comigo:</strong><br><br>
   <a href="https://www.linkedin.com/in/paulo-andr%C3%A9-5197582ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
